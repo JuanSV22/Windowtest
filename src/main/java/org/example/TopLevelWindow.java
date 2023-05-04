@@ -7,6 +7,6 @@ public class TopLevelWindow {
         JFrame frame = new JFrame("Hiiii");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         JLabel textLabel = new JLabel("Hi how you doiiin.",SwingConstants.CENTER);
-        
+
     }
 }
